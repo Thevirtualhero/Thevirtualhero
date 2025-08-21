@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/logic_tradeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="logic_tradeer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gowtham-r-42324b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gowtham-r-42324b1b6/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/the_virtual_hero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/the_virtual_hero/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@knighttemplarsbgmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@knighttemplarsbgmi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gowtham-r-42324b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowtham-r-42324b1b6/" height="30" width="40" /></a>
+<a href="https://instagram.com/the_virtual_hero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_virtual_hero" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@knighttemplarsbgmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@knighttemplarsbgmi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
